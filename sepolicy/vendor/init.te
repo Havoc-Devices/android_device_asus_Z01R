@@ -12,3 +12,4 @@ allow init proc_touchscreen:file { open write };
 allow init socket_device:sock_file { create setattr };
 allow init sysfs_firmware:file { open read };
 allow init sysfs_graphics:file { open read write };
+allow init adsprpcd_file:file mounton;
