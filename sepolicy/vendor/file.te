@@ -8,6 +8,7 @@ type log_file, file_type;
 
 # Camera
 type dataset_file, vendor_file_type, file_type;
+type public_adsprpcd_file, file_type;
 
 # Data
 type batterystats_file, file_type;
@@ -18,6 +19,3 @@ type proc_touchscreen, proc_type, sysfs_type, fs_type;
 
 # Sysfs
 type sysfs_firmware, sysfs_type, fs_type;
-
-# Camera
-type public_adsprpcd_file, file_type;
