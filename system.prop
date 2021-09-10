@@ -103,3 +103,9 @@ iorapd.readahead.enable=true
 
 # Seamless transfer
 sys.fflag.override.settings_seamless_transfer=true
+
+# Havoc Officil
+ro.havoc.device.name=ZenFone 5Z
+ro.havoc.group.url=https://t.me/havoc_Z01R
+ro.havoc.maintainer=Edward Wu
+ro.havoc.maintainer.username=edwardwu0223
