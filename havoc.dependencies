@@ -1,26 +1,18 @@
 [
   {
-    "remote": "github",
     "repository": "kernel_asus_sdm845",
-    "target_path": "kernel/asus/sdm845",
-    "branch": "eleven"
+    "target_path": "kernel/asus/sdm845"
   },
   {
-    "remote": "github",
     "repository": "vendor_asus_Z01R",
-    "target_path": "vendor/asus",
-    "branch": "eleven"
+    "target_path": "vendor/asus"
   },
   {
-    "remote": "github",
     "repository": "gcc-arm64",
-    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf",
-    "branch": "eleven"
+    "target_path": "prebuilts/gcc/linux-x86/aarch64/aarch64-elf"
   },
   {
-    "remote": "github",
     "repository": "gcc-arm",
-    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi",
-    "branch": "eleven"
+    "target_path": "prebuilts/gcc/linux-x86/arm/arm-eabi"
   }
 ]
