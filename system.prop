@@ -95,7 +95,7 @@ persist.vendor.sensors.enable.mag_filter=true
 persist.device_config.runtime_native.usap_pool_enabled=true
 
 # Havoc Officil
-ro.havoc.device.name=ZenFone 5Z
-ro.havoc.group.url=https://t.me/havoc_Z01R
+ro.havoc.device.name=Asus ZenFone 5Z
+ro.havoc.group.url=https://t.me/+wYginzTHev03MmM1
 ro.havoc.maintainer=Edward Wu
 ro.havoc.maintainer.username=edwardwu0223
