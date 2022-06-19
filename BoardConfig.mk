@@ -58,7 +58,6 @@ TARGET_KERNEL_ARCH := arm64
 TARGET_KERNEL_SOURCE := kernel/asus/sdm845
 TARGET_KERNEL_CONFIG := Z01R_defconfig
 TARGET_KERNEL_CLANG_COMPILE := false
-BOARD_KERNEL_CMDLINE += androidboot.selinux=permissive
 
 # Platform
 TARGET_BOARD_PLATFORM := sdm845
