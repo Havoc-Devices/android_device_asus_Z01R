@@ -82,6 +82,9 @@ ril.subscription.types=NV,RUIM
 ro.telephony.default_network=22,22
 telephony.lteOnCdmaDevice=1
 
+# Priv-app permissions whitelist
+ro.control_privapp_permissions=log
+
 # RCS
 persist.rcs.supported=1
 
