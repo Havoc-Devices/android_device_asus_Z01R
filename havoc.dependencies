@@ -5,7 +5,7 @@
   },
   {
     "repository": "vendor_asus_Z01R",
-    "target_path": "vendor/asus"
+    "target_path": "vendor/asus/Z01R"
   },
   {
     "repository": "gcc-arm64",
