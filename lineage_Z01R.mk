@@ -31,6 +31,10 @@ PRODUCT_MANUFACTURER := asus
 PRODUCT_MODEL := Zenfone 5Z
 PRODUCT_NAME := lineage_Z01R
 
+# Havoc-OS additions
+HAVOC_BUILD_TYPE := Official
+HAVOC_MAINTAINER := EdwardWu (bluehomewu)
+
 PRODUCT_GMS_CLIENTID_BASE := android-asus
 
 TARGET_VENDOR_PRODUCT_NAME := Z01R
